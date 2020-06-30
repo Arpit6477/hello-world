@@ -1,2 +1,2 @@
 # hello-world
-I study IT engineering 
+I study IT engineering.
